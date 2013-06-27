@@ -4,7 +4,8 @@
 `---'`---'`---^`---'    `---'`---^`    `    `---'`---'`---'
 -------------------------------------------------------------------------------
 
-Project done for the course of Parallel Distributed Systems
+Project done for the course of Parallel Distributed Systems, 
+using .NET Framework.
 
 Grade: 17 (0/20)
 

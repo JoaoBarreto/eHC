@@ -1,0 +1,81 @@
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\SID\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Source\Repos\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Utilizador\eHC_18_v4\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\eHC_final2\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\eHC_final2\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\eHC_final2\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\eHC_final2\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\eHC_final2\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\eHC_final2\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\eHC_final2\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\eHC_final2\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\eHC_final2\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC_lol\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\eHC_Final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\eHC_Final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\eHC_Final\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+F:\eHC_Final\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+F:\eHC_Final\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+F:\eHC_Final\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+F:\eHC_Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\eHC_Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\eHC_Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

@@ -1,0 +1,166 @@
+/*Testes*/
+
+
+a:link {color:#002e78}      /* unvisited link */
+a:visited {color:#001a44;}  /* visited link */
+a:hover {color:#5c7fe1;}  /* mouse over link */
+a:active {color:#690000;}  /* selected link */ 
+
+body {
+    margin-top: 0;
+    margin-bottom: 0;
+	background-image:url('bar.png');
+}
+
+table {
+	margin: 0px 0px 0px auto;
+    border-collapse: collapse;
+	
+}
+
+table td, table th
+{
+    background-color:none;
+    padding: 0; 
+}
+
+.centermid{
+
+	vertical-align:top;
+	background-color:#FFFFFF;
+}
+
+.centerLeft{
+	background-image:url('CentralLeftMid.jpg');
+}
+
+.centerRight {
+	background-image:url('CentralRightMid.jpg');
+}
+
+.topRight{
+	background-image:url('TopRight.jpg');
+    font-family:Arial, Verdana; 
+    font-size:12px;
+    font-weight:bold;
+    vertical-align:central;
+    text-align:right;
+}
+
+.topLeft
+{
+    background-image: url('logo.png');
+    background-repeat: no-repeat;
+}
+
+.topLeft{
+    background-image:url('logo.png');
+    background-repeat:no-repeat;  
+}
+
+.tableUtente
+{
+    background-color:none;
+    padding: 0;
+    height: 201px;
+
+    font-size:12px;
+    font-family:Arial, Verdana; 
+    font-weight:bold;
+}
+
+.noUtenteFile{
+    /*max-width: 308px;
+    min-width: 308px;*/
+    
+	background-image:url('no_utenteFile.jpg');
+    
+}
+
+.utenteFile{
+ 	background-image:url('utenteFile.jpg');
+     vertical-align:central;
+}
+
+.tbDiagnostico
+{
+    resize:none;
+}
+
+.botBar
+{
+    background-image:url('BottomBar.jpg');
+     max-width: 1024px;
+     min-width: 58px;
+    
+    font-family:Arial, Verdana; 
+    font-size:10px;
+    font-weight:bold;
+    vertical-align:central;
+    text-align:center;
+}
+
+.auto-style2
+{
+    width: 86px;
+}
+.auto-style3
+{
+    width: 65px;
+    text-align: left;
+    color:#FFFFFF;
+}
+
+ .auto-style5
+{
+    width: 65px;
+    text-align: center;
+    height: 15px;
+}
+
+.dadosUtente
+{
+    color:#FFFFFF;
+    font-size: 10px;
+}
+
+.indexStyle1
+{
+    color:black;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.indexStyle2
+{
+    color:black;
+    font-size:12px;
+}
+
+.indexStyle3
+{
+    color:black;
+    font-size:12px;
+    font-family:Arial;
+    font-weight:bold;
+}
+
+.h1
+{
+    color:black;
+    font-size:16px;
+    font-weight:bold;
+    vertical-align:central;
+    text-align:left;
+}
+
+.date
+{
+    color:black;
+    font-size:12px;
+   font-family:Arial;
+   color:#808080;
+   vertical-align:central;
+   align-content:center;
+   text-align: left;
+}

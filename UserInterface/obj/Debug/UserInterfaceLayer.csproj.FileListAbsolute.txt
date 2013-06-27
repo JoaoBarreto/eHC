@@ -1,0 +1,110 @@
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\UserInterface.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\UserInterface.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\DataTransferObject.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\UserInterface.dll
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\UserInterface.pdb
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\DataTransferObject.dll
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Miguel\Desktop\SID\eHC\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\UserInterface.dll
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\UserInterface.pdb
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\DataTransferObject.dll
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Miguel\Source\Repos\eHC\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\UserInterface.dll
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\UserInterface.pdb
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\DataTransferObject.dll
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Utilizador\eHC_18_v4\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Utilizador\eHC_18_v4\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\eHC_18_v4\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Utilizador\eHC_18_v4\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\UserInterface\obj\Debug\UserInterface.pdb
+C:\eHC_final2\UserInterface\bin\UserInterface.dll
+C:\eHC_final2\UserInterface\bin\UserInterface.pdb
+C:\eHC_final2\UserInterface\bin\BusinessLogicLayer.dll
+C:\eHC_final2\UserInterface\bin\DataTransferObject.dll
+C:\eHC_final2\UserInterface\bin\DataAcessLayer.dll
+C:\eHC_final2\UserInterface\bin\BusinessLogicLayer.pdb
+C:\eHC_final2\UserInterface\bin\DataTransferObject.pdb
+C:\eHC_final2\UserInterface\bin\DataAcessLayer.pdb
+C:\eHC_final2\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\eHC_final2\UserInterface\obj\Debug\UserInterface.dll
+C:\eHC_final2\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC_lol\UserInterface\obj\Debug\UserInterface.pdb
+F:\eHC_Final\UserInterface\bin\UserInterface.dll
+F:\eHC_Final\UserInterface\bin\UserInterface.pdb
+F:\eHC_Final\UserInterface\bin\BusinessLogicLayer.dll
+F:\eHC_Final\UserInterface\bin\DataTransferObject.dll
+F:\eHC_Final\UserInterface\bin\DataAcessLayer.dll
+F:\eHC_Final\UserInterface\bin\BusinessLogicLayer.pdb
+F:\eHC_Final\UserInterface\bin\DataTransferObject.pdb
+F:\eHC_Final\UserInterface\bin\DataAcessLayer.pdb
+F:\eHC_Final\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+F:\eHC_Final\UserInterface\obj\Debug\UserInterface.dll
+F:\eHC_Final\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\UserInterface.dll
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\UserInterface.pdb
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataTransferObject.dll
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Barreto\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\obj\Debug\UserInterface.pdb

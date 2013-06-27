@@ -1,0 +1,22 @@
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\UserInterface.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\UserInterface.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataTransferObject.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\obj\Release\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\obj\Release\UserInterface.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\UserInterface\obj\Release\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\UserInterface.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\bin\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC\UserInterface\obj\Release\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC\UserInterface\obj\Release\UserInterface.dll
+C:\Users\Miguel\Desktop\eHC\UserInterface\obj\Release\UserInterface.pdb

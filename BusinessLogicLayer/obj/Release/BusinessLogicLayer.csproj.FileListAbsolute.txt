@@ -1,0 +1,18 @@
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\bin\Release\DataAcessLayer.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\bin\Release\DataTransferObject.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\bin\Release\DataAcessLayer.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\bin\Release\DataTransferObject.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Release\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Release\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Release\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\bin\Release\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
+C:\Users\Miguel\Desktop\eHC\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb

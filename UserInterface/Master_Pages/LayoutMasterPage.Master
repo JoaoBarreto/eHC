@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="LayoutMasterPage.Master.cs" Inherits="UserInterface.Site1"%>
+
+<html>
+
+    <head>  
+        
+     <title id="titleElement" runat="server"></title>
+           <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="/App_themes/eHC_default/eHC_default.css" media="screen" />
+        <link rel="shortcut icon" href="../App_themes/eHC_default/favicon.ico"/>
+    </head>
+<body>
+
+    <!-- COPY PASTE DO CÓDIGO GERADO PELO FIREWORKS-->   
+  <table border="0">
+  <tr>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="54" height="1" alt="" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="364" height="1" alt="" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="298" height="1" alt="" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="85" height="1" alt="" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="168" height="1" alt="" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="32" height="1" alt="" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="23" height="1" alt="" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="1" height="1" alt="" /></td>
+  </tr>
+
+  <tr>
+   <td colspan="2"><a href="../index.aspx"><img src="/App_themes/eHC_default/logo.png"></a></td>
+   <td class="topMid"></td>
+   <td colspan="4">
+       <div id="HospitalName" class="topRight">Hospital de Santa Maria - Dep. de Tecnologias</div>
+       <div id="HospitalNumber" class="topRight">
+           <img src="../App_themes/eHC_default/phone_icon.jpg"> 21 780 5000  
+           <img src="../App_themes/eHC_default/email_icon.jpg" style="width: 15px; height: 14px"> <a href="mailto:contactcenter@chln.min-saude.pt">contactcenter@chln.min-saude.pt</a>
+       </div>
+   </td>
+   <td class="auto-style1"><img src="/App_themes/eHC_default/spacer.gif" width="1" height="58"/></td>
+  </tr>
+  <tr>
+   <td colspan="4"><img id="Img4" src="/App_themes/eHC_default/CentralLogo.jpg" width="801" height="328"/></td>
+   <td colspan="2" class="noUtenteFile"></td>
+   <td><img id="Img6" src="/App_themes/eHC_default/index_r2_c7_alternate.jpg" width="23" height="328" /></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="1" height="328" alt="" /></td>
+  </tr>
+  <tr>
+   <td class="auto-style2"><img id="Img7" src="../App_themes/eHC_default/CentralTopLeft.jpg" width="54" height="13"/></td>
+   <td colspan="4"><img id="Img8" src="/App_themes/eHC_default/index_r3_c2.jpg" width="915" height="13"/></td>
+   <td colspan="2"><img id="Img9" src="/App_themes/eHC_default/CentralTopRight.jpg" width="55" height="13"/></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="1" height="13" alt="" /></td>
+  </tr>
+  <tr>
+   <td class="centerLeft"></td>
+   <td colspan="4" class="centermid">
+       
+       <div id="linkBar">
+         
+       </div>
+       <div id="mainContent">
+           
+           <asp:ContentPlaceHolder id="CPH1" runat="server"> </asp:ContentPlaceHolder>  </div>
+       
+      </td>
+   <td colspan="2" class="centerRight"></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="1" height="224" alt="" /></td>
+  </tr>
+  <tr>
+   <td class="auto-style2"><img id="Img10" src="/App_themes/eHC_default/CentralBotLeft.jpg" width="54" height="19"/></td>
+   <td colspan="4"><img id="Img11" src="/App_themes/eHC_default/CentralBot.jpg" width="915" height="19"/></td>
+   <td colspan="2"><img id="Img12" src="/App_themes/eHC_default/CentralBotRight.jpg" width="55" height="19"/></td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="1" height="19" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="7" class="botBar"> ©2013 <a href="https://www.facebook.com/WhileTrueSystems" target="_blank">While True Systems</a> - eHC - Todos os Direitos Reservados  •  Optimizado para Firefox 1024x768 • </td>
+   <td><img src="/App_themes/eHC_default/spacer.gif" width="1" height="58"/></td>
+  </tr>
+</table>
+
+</body>
+</html>
+

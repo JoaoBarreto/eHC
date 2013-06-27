@@ -1,0 +1,8 @@
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataTransferObject\bin\Release\DataTransferObject.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataTransferObject\bin\Release\DataTransferObject.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataTransferObject\obj\Release\DataTransferObject.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataTransferObject\obj\Release\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\bin\Release\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\bin\Release\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\obj\Release\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\obj\Release\DataTransferObject.pdb

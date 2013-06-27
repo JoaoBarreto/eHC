@@ -1,0 +1,41 @@
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Miguel\Documents\Iscte\3º Ano\2º Semestre\SID\Aulas_Praticas\VisualEstudio\demo\demo\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\SID\eHC\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\SID\eHC\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\SID\eHC\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\SID\eHC\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Source\Repos\eHC\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Source\Repos\eHC\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Source\Repos\eHC\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Miguel\Source\Repos\eHC\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Source\Repos\eHC\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Utilizador\eHC_18_v4\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Utilizador\eHC_18_v4\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Utilizador\eHC_18_v4\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Utilizador\eHC_18_v4\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_Bolas\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_Bolas\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\eHC_final2\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\eHC_final2\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\eHC_final2\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\eHC_final2\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_lol\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_lol\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_lol\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC_lol\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC_lol\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+F:\eHC_Final\DataTransferObject\bin\Debug\DataTransferObject.dll
+F:\eHC_Final\DataTransferObject\bin\Debug\DataTransferObject.pdb
+F:\eHC_Final\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+F:\eHC_Final\DataTransferObject\obj\Debug\DataTransferObject.dll
+F:\eHC_Final\DataTransferObject\obj\Debug\DataTransferObject.pdb

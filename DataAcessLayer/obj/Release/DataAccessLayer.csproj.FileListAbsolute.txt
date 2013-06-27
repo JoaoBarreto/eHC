@@ -1,0 +1,16 @@
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\bin\Release\DataAcessLayer.dll.config
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\bin\Release\DataAcessLayer.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\bin\Release\DataAcessLayer.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\bin\Release\DataTransferObject.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\bin\Release\DataTransferObject.pdb
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\obj\Release\DataAcessLayer.dll
+C:\Users\Cíntia\Dropbox\3 ANO\2º Semestre\SID\Trabalho\Pasta para entrega\IT4\eHC\DataAcessLayer\obj\Release\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\bin\Release\DataAcessLayer.dll.config
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\bin\Release\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\bin\Release\DataAcessLayer.pdb
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\bin\Release\DataTransferObject.dll
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\bin\Release\DataTransferObject.pdb
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\obj\Release\DataAcessLayer.dll
+C:\Users\Miguel\Desktop\eHC\DataAcessLayer\obj\Release\DataAcessLayer.pdb
